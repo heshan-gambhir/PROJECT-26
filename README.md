@@ -1,5 +1,6 @@
 # PROJECT-26
-RECIPE TO DALGONA COFFEE
+RECIPE TO DALGONA COFFEE:
+
 INGREDIENTS
 2 tbsp. granulated sugar
 2 tbsp. instant coffee 
